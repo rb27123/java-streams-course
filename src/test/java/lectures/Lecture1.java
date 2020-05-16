@@ -21,6 +21,7 @@ public class Lecture1 {
     List<Person> people = MockData.getPeople();
     // 1. Find people aged less or equal 18
     // 2. Then change implementation to find first 10 people
+    //XDDDDDDDD
 
   }
 
